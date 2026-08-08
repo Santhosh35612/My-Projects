@@ -15,7 +15,7 @@ Passionate about Data Analysis, Machine Learning, and Building Intelligent Syste
 
 | # | Project | Tech Stack | Description |
 |---|---------|-----------|-------------|
-| 1 | [Comparative Analysis of AirBnb in France and Belgium](https://github.com/Santhosh35612/Comparative-Analysis-of-AirBnb-in-France-and-Belgium) | Python, SQL, Tableau, Excel | Comparative market analysis of Airbnb listings across France and Belgium |
+| 1 | [Airbnb-Market-Intelligence-Predictive-Analytics-France-Belgium](https://github.com/Santhosh35612/Airbnb-Market-Intelligence-Predictive-Analytics-France-Belgium) | Python, SQL, Tableau, Excel | Comparative market analysis of Airbnb listings across France and Belgium |
 | 2 | [Analysis on Bird Strikes in Aviation](https://github.com/Santhosh35612/Analysis-on-Bird-Strikes-in-Aviation) | Python, SQL | Data analysis on bird strike incidents in aviation industry |
 | 3 | [Automobile Sales and Market Insights Report](https://github.com/Santhosh35612/Automobile-Sales-and-Market-Insights-Report) | Python, Jupyter Notebook | Sales trend analysis and market insights for the automobile sector |
 | 4 | [Hotel Booking Analysis](https://github.com/Santhosh35612/Hotel-Booking-Analysis) | Python, Jupyter Notebook | Exploratory data analysis of hotel booking data to identify cancellation patterns |
